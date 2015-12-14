@@ -1,0 +1,17 @@
+.table {
+    width: 70% !important;
+    margin: 0 auto !important;
+}
+.boton{
+    margin-left:0;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.icon-validator{
+    margin-top: -25px;
+    margin-right: 15px;
+}
